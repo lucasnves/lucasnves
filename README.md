@@ -21,7 +21,6 @@
 <div align="center">
     <img alt="c++" src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B"/>
     <img alt="mysql" src="https://img.shields.io/badge/-Mysql-333?style=for-the-badge&logo=mysql" />
-    <img alt="python" src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
     <img alt="html5" src="https://img.shields.io/badge/-html-333?style=for-the-badge&logo=html5" />
     <img alt="css" src="https://img.shields.io/badge/-css-333?style=for-the-badge&logo=css3" />
 </div><br>
