@@ -19,10 +19,13 @@
  <h3>Linguagens que já utilizei/estudei</h3>
 </div>
 <div align="center">
-    <img alt="c++" src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B"/>
-    <img alt="mysql" src="https://img.shields.io/badge/-Mysql-333?style=for-the-badge&logo=mysql" />
+    <img alt="c++" src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B" />
     <img alt="html5" src="https://img.shields.io/badge/-html-333?style=for-the-badge&logo=html5" />
     <img alt="css" src="https://img.shields.io/badge/-css-333?style=for-the-badge&logo=css3" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=oracle"/>
+    <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-333?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img alt="mysql" src="https://img.shields.io/badge/-Mysql-333?style=for-the-badge&logo=mysql" />
+    <img alt="postgressql" src="https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br>
 
 <div align="center">
@@ -30,7 +33,6 @@
 </div>
 <div align="center">
     <img alt="python" src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=oracle"/>
     <img alt="javascrpit" src="https://img.shields.io/badge/-javascript-333?style=for-the-badge&logo=javascript" />
     <img alt="react" src="https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react" />
     <img alt="react native" src="https://img.shields.io/badge/-react native-333?style=for-the-badge&logo=react" />
