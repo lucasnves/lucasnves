@@ -4,13 +4,12 @@
 </div>
 
 <div align="center">
-    <span>🎓 Estudando Ciência da Computação na <a href="https://ufla.br/">UFLA</a><span>
+    <span>🎓 Ciência da Computação na <a href="https://ufla.br/">UFLA</a><span>
 <div>
 <br>
 
 <div align="center">
 <h3>Onde pode me encontrar</h3>
-<a href="https://www.instagram.com/lucasneevess/"><img alt="instagram" src="https://img.shields.io/badge/-instagram-333?style=for-the-badge&logo=instagram"/></a>
 <a href="https://www.linkedin.com/in/lucasnves/"><img alt="linkedin" src="https://img.shields.io/badge/-linkedin-333?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:lucas.snowsg@gmail.com"><img alt="instagram" src="https://img.shields.io/badge/-gmail-333?style=for-the-badge&logo=gmail"></a>
 </div>
@@ -19,9 +18,10 @@
  <h3>Linguagens</h3>
 </div>
 <div align="center">
-    <img alt="react native" src="https://img.shields.io/badge/-react native-333?style=for-the-badge&logo=react" />
+    <img alt="react native" src="https://img.shields.io/badge/-react native & React-333?style=for-the-badge&logo=react" />
     <img alt="typescripy" src="https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript" />
     <img alt="laravel" src="https://img.shields.io/badge/-laravel-333?style=for-the-badge&logo=laravel" />
+    <img alt="php" src="https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php" />
     <img alt="javascrpit" src="https://img.shields.io/badge/-javascript-333?style=for-the-badge&logo=javascript" />
     <br/>
     <img alt="flutter" src="https://img.shields.io/badge/-flutter-333?style=for-the-badge&logo=flutter" />
