@@ -1,35 +1,26 @@
-<div align="center">
-<h1>OLÁ, BEM VINDO AO MEU GITHUB</h1>
-<span></span>
-</div>
+Olá, sou o **Lucas Neves**, um desenvolvedor dedicado ao aprendizado em tecnologia. Aqui você encontrará meus estudos, projetos e experimentos envolvendo diversas tecnologias. Fique à vontade para explorar meus repositórios.
 
-<div align="center">
-    <span>🎓 Ciência da Computação na <a href="https://ufla.br/">UFLA</a><span>
-<div>
+## 🧑‍💻 Sobre mim
+
+- 👨🏻‍🎓 **Ciência da Computação** - <a href="https://ufla.br/">UFLA</a>  
+- 💼 **Desenvolvedor Júnior** com experiência em **React Native**, **TypeScript**, **Laravel** e **PHP**.  
+- 🌱 Atualmente desenvolvendo um projeto mobile que integra com o web, utilizando React Native, TypeScript, Laravel e React.
+
 <br>
 
-<div align="center">
-<h3>Onde pode me encontrar</h3>
-<a href="https://www.linkedin.com/in/lucasnves/"><img alt="linkedin" src="https://img.shields.io/badge/-linkedin-333?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:lucas.snowsg@gmail.com"><img alt="instagram" src="https://img.shields.io/badge/-gmail-333?style=for-the-badge&logo=gmail"></a>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img alt="React Native" src="https://img.shields.io/badge/-React Native & React-333?style=for-the-badge&logo=react" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-333?style=for-the-badge&logo=laravel" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-333?style=for-the-badge&logo=flutter" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java"/>
 </div>
-<br>
-<div align="center">
- <h3>Linguagens</h3>
-</div>
-<div align="center">
-    <img alt="react native" src="https://img.shields.io/badge/-react native & React-333?style=for-the-badge&logo=react" />
-    <img alt="typescripy" src="https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript" />
-    <img alt="laravel" src="https://img.shields.io/badge/-laravel-333?style=for-the-badge&logo=laravel" />
-    <img alt="php" src="https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php" />
-    <img alt="javascrpit" src="https://img.shields.io/badge/-javascript-333?style=for-the-badge&logo=javascript" />
-    <br/>
-    <img alt="flutter" src="https://img.shields.io/badge/-flutter-333?style=for-the-badge&logo=flutter" />
-    <img alt="node" src="https://img.shields.io/badge/-node.js-333?style=for-the-badge&logo=node.js" />
-    <img alt="c++" src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=oracle"/>
-</div><br>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnves&layout=compact&theme=apprentice">
-</div>
+## 🌐 Onde me encontrar
+
+📧 **Email:** [lucas.snowsg@gmail.com](mailto:lucas.snowsg@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/lucasnves](https://linkedin.com/in/lucasnves)  
