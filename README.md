@@ -1,10 +1,8 @@
-Olá, sou o **Lucas Neves**, um desenvolvedor dedicado ao aprendizado em tecnologia. Aqui você encontrará meus estudos, projetos e experimentos envolvendo diversas tecnologias. Fique à vontade para explorar meus repositórios.
-
 ## 🧑‍💻 Sobre mim
 
 - 👨🏻‍🎓 **Ciência da Computação** - <a href="https://ufla.br/">UFLA</a>  
 - 💼 **Desenvolvedor Júnior** com experiência em **React Native**, **TypeScript**, **Laravel** e **PHP**.  
-- 🌱 Atualmente desenvolvendo um projeto mobile que integra com o web, utilizando React Native, TypeScript, Laravel e React.
+- 🌱 Atualmente estou desenvolvendo um projeto mobile que integra com o web, utilizando React Native, TypeScript, Laravel e React.
 
 <br>
 
